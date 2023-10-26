@@ -1,4 +1,4 @@
 variable "storage_account_name" {
     type    = string
-    default = "nhs-2"
+    default = "nhs-3"
 }
