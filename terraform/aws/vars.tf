@@ -1,5 +1,5 @@
 variable "bucket_name" {
-  default = "staticsite-multicloud-tf-v001-nadin-10"
+  default = "nhs0"
 }
 
 variable "website_endpoint" {
