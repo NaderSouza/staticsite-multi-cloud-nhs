@@ -1,5 +1,5 @@
 variable "bucket_name" {
-  default = "nhs1"
+  default = "nhs2"
 }
 
 variable "website_endpoint" {
