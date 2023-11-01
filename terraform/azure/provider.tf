@@ -6,7 +6,7 @@ terraform {
     }
   }
   backend "azurerm" {
-    resource_group_name  = "rg-nadin"
+    resource_group_name  = "rg-nader"
     storage_account_name = "nhs3568"
     container_name       = "tfstate"
     key                  = "terraform.tfstate"
